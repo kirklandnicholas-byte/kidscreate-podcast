@@ -1,0 +1,219 @@
+[
+  {
+    "category": "Animals",
+    "title": "Bird chirping",
+    "file": "sounds/animal_bird_chirp.wav",
+    "duration": 2.5,
+    "description": "Bright, stylized bird calls"
+  },
+  {
+    "category": "Animals",
+    "title": "Dog barking",
+    "file": "sounds/animal_dog_bark.wav",
+    "duration": 2.6,
+    "description": "Two cartoon dog barks"
+  },
+  {
+    "category": "Animals",
+    "title": "Cat meowing",
+    "file": "sounds/animal_cat_meow.wav",
+    "duration": 2.8,
+    "description": "Two gentle synthetic meows"
+  },
+  {
+    "category": "Animals",
+    "title": "Frog croaking",
+    "file": "sounds/animal_frog_croak.wav",
+    "duration": 2.7,
+    "description": "Four playful croaks"
+  },
+  {
+    "category": "Animals",
+    "title": "Cow mooing",
+    "file": "sounds/animal_cow_moo.wav",
+    "duration": 3.0,
+    "description": "Low cartoon moo calls"
+  },
+  {
+    "category": "Animals",
+    "title": "Little chicks peeping",
+    "file": "sounds/animal_chicks.wav",
+    "duration": 3.4,
+    "description": "Short high-pitched peeps"
+  },
+  {
+    "category": "School",
+    "title": "Pencil writing",
+    "file": "sounds/school_pencil.wav",
+    "duration": 3.0,
+    "description": "A pencil scratching and tapping"
+  },
+  {
+    "category": "School",
+    "title": "Typing keyboard",
+    "file": "sounds/school_typing.wav",
+    "duration": 3.0,
+    "description": "Soft computer typing"
+  },
+  {
+    "category": "School",
+    "title": "School bell",
+    "file": "sounds/school_bell.wav",
+    "duration": 3.2,
+    "description": "A bright classic bell tone"
+  },
+  {
+    "category": "School",
+    "title": "Playground chatter",
+    "file": "sounds/school_playground.wav",
+    "duration": 3.6,
+    "description": "Abstract, nonverbal playground ambience"
+  },
+  {
+    "category": "School",
+    "title": "Cartoon laughter",
+    "file": "sounds/school_laughter.wav",
+    "duration": 2.6,
+    "description": "Nonverbal synthetic giggles"
+  },
+  {
+    "category": "School",
+    "title": "Turning pages",
+    "file": "sounds/school_pages.wav",
+    "duration": 2.8,
+    "description": "Paper-like flutter and rustle"
+  },
+  {
+    "category": "City",
+    "title": "City traffic",
+    "file": "sounds/city_traffic.wav",
+    "duration": 4.0,
+    "description": "Traffic rumble and passing engines"
+  },
+  {
+    "category": "City",
+    "title": "Car horns",
+    "file": "sounds/city_horns.wav",
+    "duration": 2.8,
+    "description": "Two friendly stylized car honks"
+  },
+  {
+    "category": "City",
+    "title": "Footsteps sidewalk",
+    "file": "sounds/city_footsteps.wav",
+    "duration": 3.2,
+    "description": "Footsteps walking along pavement"
+  },
+  {
+    "category": "City",
+    "title": "Bicycle bell",
+    "file": "sounds/city_bicycle_bell.wav",
+    "duration": 3.4,
+    "description": "Metallic bike bell rings"
+  },
+  {
+    "category": "City",
+    "title": "Metro station ambience",
+    "file": "sounds/city_station.wav",
+    "duration": 3.6,
+    "description": "Stylized subway station hum and chimes"
+  },
+  {
+    "category": "Restaurant",
+    "title": "Clinking glasses",
+    "file": "sounds/restaurant_glasses.wav",
+    "duration": 3.2,
+    "description": "Light glass and cup chimes"
+  },
+  {
+    "category": "Restaurant",
+    "title": "Cutlery and plates",
+    "file": "sounds/restaurant_cutlery.wav",
+    "duration": 3.0,
+    "description": "Plates and utensils clinking"
+  },
+  {
+    "category": "Restaurant",
+    "title": "Cooking in a pan",
+    "file": "sounds/restaurant_sizzle.wav",
+    "duration": 3.8,
+    "description": "Gentle cooking sizzle"
+  },
+  {
+    "category": "Restaurant",
+    "title": "Cafe ambience",
+    "file": "sounds/restaurant_cafe.wav",
+    "duration": 3.5,
+    "description": "Abstract cafe bustle with cups"
+  },
+  {
+    "category": "Restaurant",
+    "title": "Chopping vegetables",
+    "file": "sounds/restaurant_chopping.wav",
+    "duration": 2.8,
+    "description": "Rhythmic food chopping"
+  },
+  {
+    "category": "Water & boats",
+    "title": "Gentle waves",
+    "file": "sounds/water_waves.wav",
+    "duration": 4.0,
+    "description": "Small waves lapping at shore"
+  },
+  {
+    "category": "Water & boats",
+    "title": "Water splashes",
+    "file": "sounds/water_splash.wav",
+    "duration": 3.2,
+    "description": "Light splashes and droplets"
+  },
+  {
+    "category": "Water & boats",
+    "title": "Boat horn",
+    "file": "sounds/water_boat_horn.wav",
+    "duration": 3.5,
+    "description": "Deep ferry-style horn"
+  },
+  {
+    "category": "Water & boats",
+    "title": "Rowboat paddling",
+    "file": "sounds/water_paddling.wav",
+    "duration": 3.8,
+    "description": "Paddles dipping into water"
+  },
+  {
+    "category": "Water & boats",
+    "title": "Rain on a boat",
+    "file": "sounds/water_rain_boat.wav",
+    "duration": 3.7,
+    "description": "Rain and a soft watery wash"
+  },
+  {
+    "category": "Airplanes",
+    "title": "Airplane flying overhead",
+    "file": "sounds/airplane_flyover.wav",
+    "duration": 4.2,
+    "description": "Passing aircraft rumble"
+  },
+  {
+    "category": "Airplanes",
+    "title": "Airplane takeoff",
+    "file": "sounds/airplane_takeoff.wav",
+    "duration": 3.8,
+    "description": "Engine building to takeoff"
+  },
+  {
+    "category": "Airplanes",
+    "title": "Airport announcement chime",
+    "file": "sounds/airplane_announcement.wav",
+    "duration": 3.0,
+    "description": "Airport-style two-tone announcement cue"
+  },
+  {
+    "category": "Airplanes",
+    "title": "Inside an airplane",
+    "file": "sounds/airplane_cabin.wav",
+    "duration": 3.5,
+    "description": "Soft passenger-cabin engine hum"
+  }
+]
