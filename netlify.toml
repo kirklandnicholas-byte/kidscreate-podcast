@@ -10,3 +10,17 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "no-referrer"
     Permissions-Policy = "camera=(), geolocation=()"
+
+# Retired pages from the old sound-effects experiment.
+# These redirects also cover files left behind by GitHub's upload interface.
+[[redirects]]
+  from = "/sounds.html"
+  to = "/studio.html"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "/mixer.html"
+  to = "/studio.html"
+  status = 302
+  force = true
