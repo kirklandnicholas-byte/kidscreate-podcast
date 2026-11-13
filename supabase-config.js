@@ -1,3 +1,4 @@
-// OPTIONAL: Fill in only the Supabase public project URL and publishable key.
-// Never place service_role, secret, database password, or OPENAI_API_KEY here.
-window.KIDSCREATE_SUPABASE = {url: "", publishableKey: ""};
+window.KIDSCREATE_SUPABASE = {
+  url: "https://xhlpfbenmenpjsfahurr.supabase.co/rest/v1/L",
+  anonKey: "sb_publishable_aL5RFmfKQj_RXjFpBvuyPw_TmWuswnF"
+};
